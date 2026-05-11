@@ -19,7 +19,7 @@ export default function Login() {
     <div className="h-screen w-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
       <div className="bg-white rounded-2xl shadow-2xl p-8 w-[480px]">
         <h1 className="text-3xl mb-2 text-slate-900">Project Manager</h1>
-        <p className="text-slate-600 mb-8">Task Management System</p>
+        <p className="text-slate-600 mb-8">Task Management System (latest)</p>
 
         <div className="space-y-6">
           {/* User selection */}
